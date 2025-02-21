@@ -1,11 +1,19 @@
 body {
-    background-color: lightslategray;
-    color:black;
+    background-color: #eEE2DF; 
+    color:#FFC857;
 }
 
 h1 {
-    color:teal;
+    color:#C97C5D;
     text-align: center;
+}
+
+strong {
+    color: #FFC857;
+}
+
+p {
+    color: #177E89;
 }
 
 
@@ -18,7 +26,7 @@ a {
     font-weight: bold; /* Hace el texto más grueso */
   
   a:link {
-    color: blue; /* Enlace no visitado */
+    color: #084C61; /* Enlace no visitado */
   }
   
   a:visited {
