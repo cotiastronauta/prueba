@@ -1,0 +1,18 @@
+
+body {
+    background-color: darkslategrey;
+    color:lightcyan;
+}
+
+h1 {
+    color:tomato;
+    text-align: center;
+}
+
+p {
+    color:darkseagreen;
+}
+
+footer {
+    color:black;
+}

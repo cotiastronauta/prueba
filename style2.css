@@ -1,0 +1,36 @@
+body {
+    background-color: lightslategray;
+    color:black;
+}
+
+h1 {
+    color:teal;
+    text-align: center;
+}
+
+
+img {
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none; /* Elimina el subrayado */
+    font-weight: bold; /* Hace el texto más grueso */
+  
+  a:link {
+    color: blue; /* Enlace no visitado */
+  }
+  
+  a:visited {
+    color: purple; /* Enlace ya visitado */
+  }
+  
+  a:hover {
+    color: rgb(209, 111, 111); /* Cuando pasas el mouse */
+    text-decoration: underline; /* Subrayado al pasar el cursor */
+  }
+  
+  a:active {
+    color: green; /* Cuando haces clic en el enlace */
+  }
+}
